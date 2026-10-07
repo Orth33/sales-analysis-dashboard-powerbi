@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard — Power BI
+# Sales Analysis Dashboard — Power BI
 
 An interactive **Power BI Sales Analysis Dashboard** designed to provide an overview of sales performance, profitability, products, sales channels, payment methods, and product categories.
 
@@ -6,7 +6,7 @@ The dashboard combines high-level KPIs with monthly and daily sales analysis to 
 
 ---
 
-## 📸 Dashboard Preview
+## Report Preview
 
 <p align="center">
   <img src="Screenshots/sales-dashboard.png" alt="Sales Analysis Dashboard" width="100%">
@@ -14,7 +14,7 @@ The dashboard combines high-level KPIs with monthly and daily sales analysis to 
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of this project is to build an interactive sales analytics dashboard that helps users monitor key business metrics and explore sales performance across different dimensions.
 
@@ -32,7 +32,7 @@ The dashboard provides insights into:
 
 ---
 
-## 📌 Key Performance Indicators
+## Key Performance Indicators
 
 | KPI | Value |
 |---|---:|
@@ -43,9 +43,9 @@ The dashboard provides insights into:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
-### 💰 Sales & Profit Analysis
+### Sales & Profit Analysis
 
 The dashboard provides a monthly comparison of:
 
@@ -55,11 +55,11 @@ The dashboard provides a monthly comparison of:
 
 This helps identify changes in sales performance throughout the year.
 
-### 📅 Daily Sales Analysis
+### Daily Sales Analysis
 
 A daily sales trend visual provides a more detailed view of sales fluctuations throughout the month.
 
-### 🛒 Sales Type Analysis
+### Sales Type Analysis
 
 Sales are divided into different sales channels:
 
@@ -69,22 +69,22 @@ Sales are divided into different sales channels:
 
 This allows sales performance to be examined across different selling channels.
 
-### 💳 Payment Type Analysis
+### Payment Type Analysis
 
 The dashboard compares sales based on payment methods:
 
 - Online
 - Cash
 
-### 🏷️ Product Analysis
+### Product Analysis
 
 A product-level sales visualization allows products to be compared based on their sales contribution.
 
-### 📦 Category Analysis
+### Category Analysis
 
 The dashboard provides a category-level view of sales using a treemap, making it easier to compare the contribution of different product categories.
 
-### 🔎 Interactive Filters
+### Interactive Filters
 
 Users can filter the dashboard by:
 
@@ -95,7 +95,7 @@ Users can filter the dashboard by:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 sales-analysis-dashboard-powerbi/
@@ -111,7 +111,7 @@ sales-analysis-dashboard-powerbi/
 
 ---
 
-## 📈 Dashboard Visuals
+## Dashboard Visuals
 
 | Visual | Purpose |
 |---|---|
@@ -125,7 +125,7 @@ sales-analysis-dashboard-powerbi/
 
 ---
 
-## 🔍 Key Analytical Areas
+## Key Analytical Areas
 
 This dashboard demonstrates practical experience with:
 
