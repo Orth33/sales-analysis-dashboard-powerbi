@@ -1,18 +1,12 @@
 # Sales Analysis Dashboard — Power BI
 
-An interactive **Power BI Sales Analysis Dashboard** designed to provide an overview of sales performance, profitability, products, sales channels, payment methods, and product categories.
-
-The dashboard combines high-level KPIs with monthly and daily sales analysis to provide a clear view of overall business performance.
-
----
+An interactive **Power BI Sales Analysis Dashboard** designed to provide an overview of sales performance, profitability, products, sales channels, payment methods, and product categories. The dashboard combines high-level KPIs with monthly and daily sales analysis to provide a clear view of overall business performance.
 
 ## Report Preview
 
 <p align="center">
   <img src="Screenshots/sales-dashboard.png" alt="Sales Analysis Dashboard" width="100%">
 </p>
-
----
 
 ## Project Objective
 
@@ -30,8 +24,6 @@ The dashboard provides insights into:
 - Product performance
 - Product category performance
 
----
-
 ## Key Performance Indicators
 
 | KPI | Value |
@@ -40,8 +32,6 @@ The dashboard provides insights into:
 | 📦 Quantity | 132 |
 | 💵 Profit | 34K |
 | 📈 Profit % | 10% |
-
----
 
 ## Dashboard Features
 
@@ -93,8 +83,6 @@ Users can filter the dashboard by:
 - Sale Type
 - Payment Mode
 
----
-
 ## Repository Structure
 
 ```text
@@ -109,8 +97,6 @@ sales-analysis-dashboard-powerbi/
 └── README.md
 ```
 
----
-
 ## Dashboard Visuals
 
 | Visual | Purpose |
@@ -122,8 +108,6 @@ sales-analysis-dashboard-powerbi/
 | Daily Sales | Analyze daily sales fluctuations |
 | Sales by Payment Type | Compare sales based on payment methods |
 | Sales by Category | Analyze category-level sales contribution |
-
----
 
 ## Key Analytical Areas
 
@@ -139,7 +123,5 @@ This dashboard demonstrates practical experience with:
 - Payment method analysis
 - Interactive Power BI filtering
 - Business-oriented data visualization
-
----
 
 ⭐ If you find this project interesting, feel free to explore the repository and check out my other data analytics and machine learning projects.
